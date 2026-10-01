@@ -1,0 +1,6 @@
+{
+  "name": "효원전기 - 중고모타 수리 및 판매 전문",
+  "description": "1996년 설립 30년 전통의 효원전기 - 효성모타, 감속기, V·S모타, D·C모타 정밀 수리, 공장 전경 및 중고모타 재고 현황, 장인 코일권선 공정 안내",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
